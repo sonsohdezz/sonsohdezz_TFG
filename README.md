@@ -5,8 +5,8 @@ Repository containing files and scripts created for Final Degree Project in the 
 
 <summary> Final Degree Project Information </summary>
 
-
-* **Title:** "EVALUATION OF HUMAN GUT MICROBIOME TAXONOMIC PROFILES DERIVED FROM THE EGGNOG-MAPPER FUNCTIONAL ANNOTATION TOOL."
+#### Title
+"EVALUATION OF HUMAN GUT MICROBIOME TAXONOMIC PROFILES DERIVED FROM THE EGGNOG-MAPPER FUNCTIONAL ANNOTATION TOOL."
 * **Author:** Sonsoles Hernández Piñel
 * **Tutors:** Carlos Pérez Cantalapiedra & Joaquín Giner Lamia
 * **Institution:** [Technical University of Madrid (UPM)](https://www.upm.es/internacional)
