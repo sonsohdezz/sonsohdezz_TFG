@@ -10,7 +10,8 @@ Evaluation of human gut microbiome taxonomic progiles derived from the eggNOG-ma
 #### Author
 Sonsoles Hernández Piñel
 #### Tutors
-Carlos Pérez Cantalapiedra & Joaquín Giner Lamia
+- Carlos Pérez Cantalapiedra
+- Joaquín Giner Lamia
 #### Institution
 [Technical University of Madrid (UPM)](https://www.upm.es/internacional)
 #### Collaborating Institution
