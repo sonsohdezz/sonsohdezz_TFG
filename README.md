@@ -3,7 +3,7 @@ Repository containing files and scripts created for Final Degree Project in the 
 
 <details>
 
-<summary>  __FINAL DEGREE PROJECT INFORMATION__ </summary>
+<summary>  FINAL DEGREE PROJECT INFORMATION </summary>
 
 #### TITLE
 Evaluation of human gut microbiome taxonomic progiles derived from the eggNOG-mapper functional annotation tool. 
@@ -21,8 +21,9 @@ Carlos Pérez Cantalapiedra & Joaquín Giner Lamia
 
 <details>
 
-<summary> Information about the files </summary>
+<summary> INFORMATION ABOUT THE FILES </summary>
 
+#### 
 
 | File  | Description |
 | ------------- | ------------- |
