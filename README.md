@@ -8,14 +8,14 @@ Repository containing files and scripts created for Final Degree Project in the 
 #### Title
 > Evaluation of human gut microbiome taxonomic progiles derived from the eggNOG-mapper functional annotation tool. 
 #### Author
-Sonsoles Hernández Piñel
+> Sonsoles Hernández Piñel
 #### Tutors
-- Carlos Pérez Cantalapiedra
-- Joaquín Giner Lamia
+> - Carlos Pérez Cantalapiedra
+> - Joaquín Giner Lamia
 #### Institution
-[Technical University of Madrid (UPM)](https://www.upm.es/internacional)
+> [Technical University of Madrid (UPM)](https://www.upm.es/internacional)
 #### Collaborating Institution
-[Centre for Biotechnology and Plant Genomics (CBGP)](https://www.cbgp.upm.es/index.php/en/about-us)
+> [Centre for Biotechnology and Plant Genomics (CBGP)](https://www.cbgp.upm.es/index.php/en/about-us)
 
   
 </details>
