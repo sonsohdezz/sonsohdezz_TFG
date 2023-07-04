@@ -3,7 +3,7 @@ Repository containing files and scripts created for Final Degree Project in the 
 
 <details>
 
-<summary> Final Degree Project Information </summary>
+<summary>  __FINAL DEGREE PROJECT INFORMATION__ </summary>
 
 #### TITLE
 Evaluation of human gut microbiome taxonomic progiles derived from the eggNOG-mapper functional annotation tool. 
