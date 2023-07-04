@@ -28,13 +28,13 @@ Repository containing files and scripts created for Final Degree Project in the 
 
 #### 
 
-| File  | Description |
-| ------------- | ------------- |
-| `contigs.py`  | Genome fragmentation script, which uses as parameters the desired contig size (in bp) and the desired displacement window size (in bp), and returns a fasta file with the created contigs.  |
-| `eggnog_phyloseq.py`  | Script that creates the three required input files for Phyloseq from the taxonomic annotation file obtained with eggNOG-mapper.  |
-| `lineage.py`  | Script that generates a table with the taxonomies of the different contigs of a metagenomic sample from the functional annotation file obtained with eggNOG-mapper.|
-| `motus_phyloseq.py`  | Transformation script that creates the three required input files for Phyloseq from the taxonomic annotation file obtained with mOTUs v3.|
-| `phyloseq.R` | Script that generates the graphs of interest for the analysis of taxonomic results obtained with functional analysis tools, such as eggNOG-mapper or mOTUs v3. |
+| File  | Description | Use | 
+| ------------- | ------------- | ------------- |
+| `contigs.py`  | Genome fragmentation script, which uses as parameters the desired contig size (in bp) and the desired displacement window size (in bp), and returns a fasta file with the created contigs.  | `python contigs.py -i <inputfile> -o <outputdir> -c <contigs_size> -w <scrollingwindow_size>` |
+| `eggnog_phyloseq.py`  | Script that creates the three required input files for Phyloseq from the taxonomic annotation file obtained with eggNOG-mapper.  | `python eggnog_phyloseq.py -i <inputdir> -o <outputdir>` |
+| `lineage.py`  | Script that generates a table with the taxonomies of the different contigs of a metagenomic sample from the functional annotation file obtained with eggNOG-mapper.| `python lineage.py -i <inputdir> -o <outputdir>` |
+| `motus_phyloseq.py`  | Transformation script that creates the three required input files for Phyloseq from the taxonomic annotation file obtained with mOTUs v3.| `python motus_phyloseq.py -i <inputdir> -o <outputdir>` |
+| `phyloseq.R` | Script that generates the graphs of interest for the analysis of taxonomic results obtained with functional analysis tools, such as eggNOG-mapper or mOTUs v3. | 
 
 
 </details>
